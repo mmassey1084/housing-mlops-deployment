@@ -1,5 +1,4 @@
 # housing-mlops-deployment
-# housing-mlops-basic
 
 ## Housing Price Prediction - MLOps Workflow
 
